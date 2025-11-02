@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-11-02T14:37:50.947795",
+  "datasets": {
+    "college_scorecard_institution": {
+      "date": "2024-09",
+      "records": 3875,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "college_scorecard_field_of_study": {
+      "date": "2024-09",
+      "records": 69947,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "hud_fmr": {
+      "date": "FY2026",
+      "records": 213037,
+      "source": "https://www.huduser.gov/portal/datasets/fmr.html"
+    },
+    "bea_rpp": {
+      "date": "2001-nan",
+      "records": 0,
+      "source": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+    },
+    "eia_electricity": {
+      "date": "1990.0-2020.0",
+      "records": 4472,
+      "source": "https://www.eia.gov/electricity/data/state/avgprice_annual.xlsx"
+    }
+  }
+}
